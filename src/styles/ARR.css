@@ -1,0 +1,21 @@
+.row{
+    border: 1px solid rgba(248, 248, 255, 0.465);
+    border-radius: 4px;
+    padding: 0 10px;
+    background-color: #323131;
+}
+p{
+    line-height: 0.6rem;
+}
+.text{
+    font-size: larger;
+    line-height: 1rem;
+}
+.delete-button{
+    font-size: small;
+    float: right;
+}
+.delete-button:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
